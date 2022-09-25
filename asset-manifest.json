@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://chaudhary-sonika.github.io/csb-qfynw4/static/css/main.d46f740d.chunk.css",
-    "main.js": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/main.e4fcadae.chunk.js",
-    "main.js.map": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/main.e4fcadae.chunk.js.map",
+    "main.js": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/main.a38823b7.chunk.js",
+    "main.js.map": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/main.a38823b7.chunk.js.map",
     "runtime-main.js": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/runtime-main.4479b511.js",
     "runtime-main.js.map": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/runtime-main.4479b511.js.map",
     "static/js/2.b70d90ed.chunk.js": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/2.b70d90ed.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4479b511.js",
     "static/js/2.b70d90ed.chunk.js",
     "static/css/main.d46f740d.chunk.css",
-    "static/js/main.e4fcadae.chunk.js"
+    "static/js/main.a38823b7.chunk.js"
   ]
 }
