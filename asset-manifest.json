@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://chaudhary-sonika.github.io/csb-qfynw4/static/css/main.d46f740d.chunk.css",
+    "main.js": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/main.e4fcadae.chunk.js",
+    "main.js.map": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/main.e4fcadae.chunk.js.map",
+    "runtime-main.js": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/runtime-main.4479b511.js",
+    "runtime-main.js.map": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/runtime-main.4479b511.js.map",
+    "static/js/2.b70d90ed.chunk.js": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/2.b70d90ed.chunk.js",
+    "static/js/2.b70d90ed.chunk.js.map": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/2.b70d90ed.chunk.js.map",
+    "index.html": "https://chaudhary-sonika.github.io/csb-qfynw4/index.html",
+    "static/css/main.d46f740d.chunk.css.map": "https://chaudhary-sonika.github.io/csb-qfynw4/static/css/main.d46f740d.chunk.css.map",
+    "static/js/2.b70d90ed.chunk.js.LICENSE.txt": "https://chaudhary-sonika.github.io/csb-qfynw4/static/js/2.b70d90ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4479b511.js",
+    "static/js/2.b70d90ed.chunk.js",
+    "static/css/main.d46f740d.chunk.css",
+    "static/js/main.e4fcadae.chunk.js"
+  ]
+}
